@@ -18,7 +18,7 @@ Uma réplica de uma calculadora científica premium, inspirada no design da clá
 - **Responsivo**: Adaptado para se manter proporcional e acessível em dispositivos móveis.
 - **Acessibilidade por Teclado**: Suporte à digitação natural utilizando o teclado físico.
 ## Para Rodar A Calculadora
-- **Acesse:** https://devghz.github.io/calculadora-angular-casio/
+- **Acesse:** https://engenheiroboezzio.github.io/calculadora-angular-cacio/
 ## 📦 Como rodar o projeto localmente
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
